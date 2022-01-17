@@ -3,7 +3,7 @@
 ## A Kintsugi testnet Agent Manager
 
 I wrote this small script trying to simplify even more the great work made by the guys at the ethereum foundation (Thanks Parithosh and Rafael for your work) for deploying infrastructure for their testnet, Kintsugi.
-I could have done it using python or another language, but I've decided to use the least amount of requirements posible, and keeping as simple as i can. So, besides the original requirements listed in https://hackmd.io/dFzKxB3ISWO8juUqPpJFfw, it only requires:
+I could have done it using python or another language, but I've decided to use the least amount of requirements possible, and keeping as simple as i can. So, besides the original requirements listed in https://hackmd.io/dFzKxB3ISWO8juUqPpJFfw, it only requires:
 
 - Bash (duh)
 - cURL / sed (used for public IP detection and writing into kintsugi.vars)
